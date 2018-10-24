@@ -1,6 +1,7 @@
 Database diperoleh dari https://www.freemysqlhosting.net/
 Terdiri dari sembilan tabel
-Relasi database dapat dilihat pada gambar
-Terdapat tiga buah query, yang pertama adalah menggabungkan sembilan tabel ke dalam satu tabel. 
-Yang kedua adalah menghitung jumlah actor berjenis kelamin pria dan wanita. 
-Yang terakhir adalah mengambil seluruh informasi untuk movie dengan rating tertinggi. 
+Relasi database dapat dilihat pada gambar (relasi_database)
+Terdapat tiga buah query, yang pertama adalah menggabungkan sembilan tabel ke dalam satu tabel. (gabung.sql)
+Tabel tersebut kemudian diurutkan berdasarkan tahun rilis dari yang paling lama hingga terbaru, apabila terdapat tahun yang sama maka akan diurukan berdasarkan durasi film yang paling panjang hingga terkecil. 
+Yang kedua adalah menghitung jumlah actor berjenis kelamin pria dan wanita. (total_gender.sql)
+Yang terakhir adalah mengambil seluruh informasi untuk movie dengan rating tertinggi. (info_for_highest_rating.sql)
