@@ -1,8 +1,0 @@
-Database diperoleh dari https://www.freemysqlhosting.net/
-Terdiri dari sembilan tabel
-Relasi database dapat dilihat pada gambar (relasi_database)
-Terdapat tiga buah query, yang pertama adalah menggabungkan sembilan tabel ke dalam satu tabel. (gabung.sql)
-  Tabel tersebut kemudian diurutkan berdasarkan tahun rilis dari yang paling lama hingga terbaru. 
-  Apabila terdapat tahun yang sama maka akan diurukan berdasarkan durasi film yang paling panjang hingga terpendek. 
-Yang kedua adalah menghitung jumlah actor berjenis kelamin pria dan wanita. (total_gender.sql)
-Yang terakhir adalah mengambil seluruh informasi untuk movie dengan rating tertinggi. (info_for_highest_rating.sql)
