@@ -9,6 +9,7 @@ Columns = id, name, category_id
 Columns = trx_line_id, product_id, trx_state, order_value, created_at
 
 Write SQL queries to:
+
 a. Get top 3 products with the highest total sales value in October 2020 in
 each category. Show the category name, product name, and total sales
 value.
