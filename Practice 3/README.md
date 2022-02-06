@@ -35,7 +35,7 @@ Given a databases with 3 tables,
 |     ..      |     ..     |     ..    |      ..     |         ..          | 
 |    999      |     99     | Delivered |  25000000   | 2020-09-14 09:44:17 | 
 
-Write SQL queries to:
+## Write SQL queries to:
 a. Get top 3 products with the highest total sales value in October 2020 in
 each category. Show the category name, product name, and total sales
 value.
