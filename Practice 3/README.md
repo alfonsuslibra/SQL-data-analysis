@@ -5,7 +5,6 @@ Given a databases with 3 tables,
 1. Category (index = id)
 
 |  id  |       name       |
-
 |   1  | makanan instan   |
 
 |   2  | fresh            |
@@ -22,7 +21,6 @@ Given a databases with 3 tables,
 2. Product (index = id)
 
 |  id  |         name          | category_id |
-
 |   1  | filma minyak goreng   |      7      |
 
 |   2  | beras si geulis       |      8      |
@@ -38,7 +36,6 @@ Given a databases with 3 tables,
 3. sales order (index = trx_id)
 
 | trx_line_id | product_id | trx_state | order_value |      created_at     |
-
 |      1      |      3     | Delivered |   100000    | 2020-10-05 21:57:26 |
 
 |      2      |      1     | Cancelled |   300000    | 2020-08-15 12:47:36 |
