@@ -1,4 +1,6 @@
- Given a databases with 3 tables, 
+# Readme
+
+Given a databases with 3 tables, 
 
 1. Category (index = id)
 
