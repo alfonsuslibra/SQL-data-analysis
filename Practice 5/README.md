@@ -7,6 +7,6 @@ c. customers (columns -> customer_id, first_name, last_name, phone_no, address, 
 d. employee (columns -> emp_id, first_name, last_name, salary, branch_code)
 e. transactions (columns -> trns_id, trns_type, trns_date, acc_number, amount, status)
 
-I try to solve several question using SQL QUery. 
+I write SQL Query to solve several problem. 
 
 
