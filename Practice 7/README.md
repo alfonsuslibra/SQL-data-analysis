@@ -1,5 +1,5 @@
 ## Readme
 
-I created a retail databases that include 3 tables that is, a. customers (columns -> customer_id, customer_name, phone, address, city, state, postal_code, country) b. products (columns -> product_code, product_line, price) c. sales_order (columns -> order_number, quantity_ordered, price_each, sales, order_date, status, qtr_id, month_id, year_id, product, customer, deal_size)
+I created a painting database that include 4 tables that is, a. artists (columns -> id, first_name, last_name) b. collectors (columns -> id, first_name, last_name) c. paintings (columns -> id, name, artist_id, listed_price) d. sales (columns -> id, sale_date, painting_id, artist_id, collector_id, sales_price)
 
 I write SQL Query to solve several problem.
